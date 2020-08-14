@@ -36,6 +36,9 @@ RUN \
 	nano \
 	net-tools \
 	nodejs \
+	python3 \
+	python3-pip \
+	python3-venv \
 	sudo \
 	yarn && \
  echo "**** install code-server ****" && \
